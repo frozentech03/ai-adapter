@@ -13,3 +13,7 @@ go get github.com/frozentech03/ai-adapter
 ```go
 import aiadapter "github.com/frozentech03/ai-adapter"
 ```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
